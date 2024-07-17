@@ -1,0 +1,111 @@
+{
+    "animals": [
+      {
+        "id": 1,
+        "name": "Whiskers",
+        "breed": "Tabby Cat",
+        "customerId": 1,
+        "locationId": 1
+      },
+      {
+        "id": 2,
+        "name": "Buddy",
+        "breed": "Golden Retriever",
+        "customerId": 2,
+        "locationId": 2
+      },
+      {
+        "id": 3,
+        "name": "Coco",
+        "breed": "Labrador",
+        "customerId": 3,
+        "locationId": 1
+      },
+      {
+        "id": 4,
+        "name": "Oreo",
+        "breed": "Border Collie",
+        "customerId": 4,
+        "locationId": 2
+      },
+      {
+        "id": 5,
+        "name": "Max",
+        "breed": "German Shepherd",
+        "customerId": 5,
+        "locationId": 1
+      }
+    ],
+    "customers": [
+      {
+        "id": 1,
+        "name": "Hannah Hall",
+        "address": "7002 Chestnut Ct, Nashville"
+      },
+      {
+        "id": 2,
+        "name": "Emily Johnson",
+        "address": "1405 Pine Street, Nashville"
+      },
+      {
+        "id": 3,
+        "name": "Michael Smith",
+        "address": "2212 Oak Avenue, Nashville"
+      },
+      {
+        "id": 4,
+        "name": "Jessica Brown",
+        "address": "3208 Elm Street, Nashville"
+      },
+      {
+        "id": 5,
+        "name": "David Wilson",
+        "address": "4501 Maple Drive, Nashville"
+      }
+    ],
+    "employees": [
+      {
+        "id": 1,
+        "name": "John Thompson",
+        "position": "Veterinarian",
+        "locationId": 1
+      },
+      {
+        "id": 2,
+        "name": "Emma Roberts",
+        "position": "Pet Groomer",
+        "locationId": 2
+      },
+      {
+        "id": 3,
+        "name": "Daniel Miller",
+        "position": "Veterinary Technician",
+        "locationId": 1
+      },
+      {
+        "id": 4,
+        "name": "Olivia White",
+        "position": "Receptionist",
+        "locationId": 2
+      },
+      {
+        "id": 5,
+        "name": "James Harris",
+        "position": "Animal Caretaker",
+        "locationId": 1
+      }
+    ],
+    "locations": [
+      {
+        "id": 1,
+        "name": "Nashville North",
+        "address": "8422 Johnson Pike, Nashville"
+      },
+      {
+        "id": 2,
+        "name": "Nashville South",
+        "address": "209 Emory Drive, Nashville"
+      }
+    ]
+  }
+  
